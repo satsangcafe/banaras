@@ -3,7 +3,7 @@
 :author: A S Pandaram
 :doctype: book
 :leveloffset:
-:front-cover-image: image:benaras.jpg[]
+:front-cover-image: image:banaras.jpg[]
 :sectnums:
 :sectlinks:
 :chapter-signifier:
